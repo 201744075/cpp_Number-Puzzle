@@ -1,0 +1,2 @@
+C:\Users\kim45\Desktop\C++\Toy Project\Number-Puzzle\Debug\Number-Puzzle.exe
+C:\Users\kim45\Desktop\C++\Toy Project\Number-Puzzle\Debug\Number-Puzzle.pdb
